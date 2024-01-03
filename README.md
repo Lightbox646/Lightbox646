@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Lightbox646!
+- 👀 I’m interested in app development.
+- 🌱 I’m currently learning Swift!
+- 📫 Reach me at g.mossoba@outlook.com.
